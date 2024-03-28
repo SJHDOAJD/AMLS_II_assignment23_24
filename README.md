@@ -46,4 +46,4 @@ To run the code in this project, the following packages are required:
 - `opencv-python`
 - `albumentations`
 OR
-The required environment has been export to file "environment.yaml". Use the following conda instruction to finish the environment setting.
+The required environment has been export to file "environment.yml". Use the following conda instruction to finish the environment setting.
