@@ -13,6 +13,12 @@
 - Put 2100 images into 'Datasets' folder.
 - Create or install the environment according to the requirements below.
 
+## Point
+
+- you can run the main.py to run the whole project. And, you can add and remove "#" to change the method in main.py.
+- Because of the size of the original dataset, even though it was scaled down, main.py still takes 3-6 hours to run depending on the method in the CPU situation.
+- If you want to see the results, you can browse directly to the "some recorded diagrams" folder to get the results you want. OR, you can browse to the .ipynb file stored in the "A" folder to get the results you want.
+
 ## Documents
 
 - main.py (run the project)
